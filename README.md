@@ -1,2 +1,3 @@
 # byPassFL
-这是一款fakeLocation1.5.2的破解并且绕过白名单无限制的模块
+
+适用于 FakeLocation 1.5.2 的破解和白名单绕过模块。
